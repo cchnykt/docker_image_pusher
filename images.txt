@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #
 #adxing/gecoos-ac:v1
-6053537/portainer-ce
+#6053537/portainer-ce
+bloodstar/music-player
