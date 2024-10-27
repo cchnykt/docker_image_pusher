@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #
 adxing/gecoos-ac:v1
+053537/portainer-ce
