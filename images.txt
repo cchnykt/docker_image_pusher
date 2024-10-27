@@ -5,5 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #
-adxing/gecoos-ac:v1
-053537/portainer-ce
+#adxing/gecoos-ac:v1
+6053537/portainer-ce
