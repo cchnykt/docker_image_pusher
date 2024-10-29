@@ -7,4 +7,4 @@
 #adxing/gecoos-ac:v1
 #6053537/portainer-ce
 #bloodstar/music-player
-dockurr/windows
+chishin/nginx-proxy-manager-zh
